@@ -1,0 +1,28 @@
+_repo: A-List-of-Factorial-Math-Constants_212
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: The program used to calculate the factorials was a simple Scheme program,
+  the source code of which has been lost.
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics'
+- !lcsh 'Factorials'
+- GITenberg
+tableOfContents: "factorials from 1! to 99! by 1's\r\nfactorials from 100! to 900!\
+  \ by 100's\r\nfactorials from 1000! to 10000! by 1000's."
+title: A List of Factorial Math Constants
+url: http://www.gutenberg.org/ebooks/212
