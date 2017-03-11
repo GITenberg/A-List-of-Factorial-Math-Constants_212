@@ -1,5 +1,8 @@
 _repo: A-List-of-Factorial-Math-Constants_212
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -8,6 +11,8 @@ creator:
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: The program used to calculate the factorials was a simple Scheme program,
   the source code of which has been lost.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/212#A-List-of-Factorial-Math-Constants
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '1995-02-01'
 gutenberg_type: Text
